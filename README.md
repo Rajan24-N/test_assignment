@@ -1,5 +1,5 @@
 # test_assignment
-Read the README file for event management using FLASK
+DOWNLOAD the ZIP FILE and Read the README file for event management using FLASK
 
 # Event Management Application
 
